@@ -1,0 +1,433 @@
+[
+
+  {
+
+    "category": "ICC World Cup 2026 & Sports",
+
+    "channels": [
+
+      {
+
+        "name": "T-Sports Live 1 (Server 1)",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+
+        "url": "https://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"
+
+      },
+
+      {
+
+        "name": "T-Sports Live 1 (Server 2)",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+
+        "url": "https://mflixott.com/tv/plusbox/live/TSports/index.m3u8"
+
+      },
+
+      {
+
+        "name": "T-Sports Live 1 (Server 3)",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+
+        "url": "https://starsportshindiii.pages.dev/720p.m3u8"
+
+      },
+
+      {
+
+        "name": "Star Sports 1 HD",
+
+        "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",
+
+        "url": "https://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8"
+
+      },
+
+      {
+
+        "name": "Sony Ten Cricket HD",
+
+        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
+
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+
+      },
+
+      {
+
+        "name": "P-TV Sports HD",
+
+        "logo": "https://tvassets.roarzone.info/images/73.png",
+
+        "url": "https://198.195.239.50:8095/PTV-kutta/video.m3u8"
+
+      },
+
+      {
+
+        "name": "A-Sports",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
+
+      },
+
+      {
+
+        "name": "Sport Stars",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+
+        "url": "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
+
+      },
+
+      {
+
+        "name": "Bein Sports 1",
+
+        "logo": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
+
+        "url": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Willow HD",
+
+        "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",
+
+        "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "category": "BANGLA ENTERTAINMENT",
+
+    "channels": [
+
+      {
+
+        "name": "Star Jalsha HD",
+
+        "logo": "https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",
+
+        "url": "https://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8"
+
+      },
+
+      {
+
+        "name": "Zee Bangla HD",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",
+
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+
+      },
+
+      {
+
+        "name": "Colors Bangla HD",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",
+
+        "url": "https://103.229.254.25:7001/play/a0ds/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Sony Aath",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.jpeg",
+
+        "url": "https://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8"
+
+      },
+
+      {
+
+        "name": "NTV",
+
+        "logo": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
+
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Deepto TV",
+
+        "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",
+
+        "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Channel I",
+
+        "logo": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
+
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+
+      },
+
+      {
+
+        "name": "GTV (Gazi TV)",
+
+        "logo": "https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4",
+
+        "url": "https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8"
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "category": "INFOTAINMENT",
+
+    "channels": [
+
+      {
+
+        "name": "Discovery HD",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",
+
+        "url": "https://103.175.73.12:8080/live/135/135_0.m3u8"
+
+      },
+
+      {
+
+        "name": "National Geographic HD",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png",
+
+        "url": "https://103.229.254.25:7001/play/a038/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Animal Planet HD",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",
+
+        "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"
+
+      },
+
+      {
+
+        "name": "Sony BBC Earth HD",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg",
+
+        "url": "https://wildearth-plex.amagi.tv/master.m3u8"
+
+      },
+
+      {
+
+        "name": "History TV 18 HD",
+
+        "logo": "https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",
+
+        "url": "https://103.175.73.12:8080/live/443/443_0.m3u8"
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "category": "KIDS & CARTOON",
+
+    "channels": [
+
+      {
+
+        "name": "Duronto TV",
+
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
+
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
+
+      },
+
+      {
+
+        "name": "Cartoon Network HD",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",
+
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+
+      },
+
+      {
+
+        "name": "Nick Bangla",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png",
+
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
+
+      },
+
+      {
+
+        "name": "Sony Yay",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Yay.png",
+
+        "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8"
+
+      },
+
+      {
+
+        "name": "Pogo",
+
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
+
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
+
+      },
+
+      {
+
+        "name": "Gopal Bhar",
+
+        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
+
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8"
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "category": "BANGLA NEWS",
+
+    "channels": [
+
+      {
+
+        "name": "Somoy TV",
+
+        "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
+
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Jamuna TV",
+
+        "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
+
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Ekattor TV",
+
+        "logo": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
+
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Independent TV",
+
+        "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",
+
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Channel 24",
+
+        "logo": "https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",
+
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "category": "RELIGIOUS",
+
+    "channels": [
+
+      {
+
+        "name": "Saudi Quran Live",
+
+        "logo": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/logo.png",
+
+        "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
+
+      },
+
+      {
+
+        "name": "Madani TV",
+
+        "logo": "https://streaming.madanichannel.tv/logo.png",
+
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
+
+      },
+
+      {
+
+        "name": "Makka Live",
+
+        "logo": "https://s3.aynaott.com/storage/9b6f35f73a099b7a5885a970523c5f78",
+
+        "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+
+      }
+
+    ]
+
+  }
+
+]
