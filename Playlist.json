@@ -15,12 +15,12 @@
       {
         "name": "T-Sports Live 1 (Server 3)",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
-        "url": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u"
+        "url": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8"
       },
       {
         "name": "Star Sports 1 HD",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",
-        "url": "https://n100.zohanayaan.com:1686/hls/star1in.m3u8"
+        "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Sony Ten Cricket HD",
@@ -30,7 +30,7 @@
       {
         "name": "P-TV Sports HD",
         "logo": "https://tvassets.roarzone.info/images/73.png",
-        "url": "http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts"
+        "url": "https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "A-Sports",
@@ -203,7 +203,12 @@
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
       },
       {
-        "name": "Madani TV",
+        "name": "Peace Tv Bangla",
+        "logo": "https://streaming.madanichannel.tv/logo.png",
+        "url": "https://flussonic.defineatoz.com/Peacetv/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Madani TV Bangla",
         "logo": "https://streaming.madanichannel.tv/logo.png",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
       },
