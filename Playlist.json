@@ -5,7 +5,7 @@
       {
         "name": "T-Sports Live 1 (Server 1)",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
-        "url": "https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8"
+        "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "T-Sports Live 1 (Server 2)",
@@ -15,12 +15,12 @@
       {
         "name": "T-Sports Live 1 (Server 3)",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
-        "url": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8"
+        "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
       },
       {
         "name": "Star Sports 1 HD",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",
-        "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8"
+        "url": "http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Sony Ten Cricket HD",
@@ -29,8 +29,8 @@
       },
       {
         "name": "P-TV Sports HD",
-        "logo": "https://tvassets.roarzone.info/images/73.png",
-        "url": "https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8"
+        "logo": "http://tvassets.roarzone.info/images/73.png",
+        "url": "http://198.195.239.50:8095/PTV-kutta/video.m3u8"
       },
       {
         "name": "A-Sports",
@@ -45,12 +45,12 @@
       {
         "name": "Bein Sports 1",
         "logo": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
-        "url": "https://flussonic.defineatoz.com/BeinSports1/tracks-v1a1/mono.m3u8"
+        "url": "https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Willow HD",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",
-        "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
+        "url": "http://103.145.113.8:7171/star_jolsha/video.m3u8"
       }
     ]
   },
@@ -60,7 +60,7 @@
       {
         "name": "Star Jalsha HD",
         "logo": "https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",
-        "url": "https://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8"
+        "url": "http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8"
       },
       {
         "name": "Zee Bangla HD",
@@ -70,12 +70,12 @@
       {
         "name": "Colors Bangla HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",
-        "url": "https://103.229.254.25:7001/play/a0ds/index.m3u8"
+        "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8"
       },
       {
         "name": "Sony Aath",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.jpeg",
-        "url": "https://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8"
+        "url": "http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "NTV",
@@ -105,12 +105,12 @@
       {
         "name": "Discovery HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",
-        "url": "https://103.175.73.12:8080/live/135/135_0.m3u8"
+        "url": "https://wildearth-plex.amagi.tv/master.m3u8"
       },
       {
         "name": "National Geographic HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png",
-        "url": "https://103.229.254.25:7001/play/a038/index.m3u8"
+        "url": "http://103.229.254.25:7001/play/a038/index.m3u8"
       },
       {
         "name": "Animal Planet HD",
@@ -125,7 +125,7 @@
       {
         "name": "History TV 18 HD",
         "logo": "https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",
-        "url": "https://103.175.73.12:8080/live/443/443_0.m3u8"
+        "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
       }
     ]
   },
@@ -205,10 +205,10 @@
       {
         "name": "Peace Tv Bangla",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.jpeg",
-        "url": "https://flussonic.defineatoz.com/Peacetv/tracks-v1a1/mono.m3u8"
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8"
       },
       {
-        "name": "Madani TV Bangla",
+        "name": "Madani TV",
         "logo": "https://streaming.madanichannel.tv/logo.png",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
       },
